@@ -8,3 +8,4 @@
 ## Class
 
 * Illuminate - 照亮；阐明；解释
+* Eloquent - 雄辩的，有说服力的
