@@ -9,3 +9,5 @@
 
 * Illuminate - 照亮；阐明；解释
 * Eloquent - 雄辩的，有说服力的
+* Foundation - 基础，地基，基金会
+* Concern - 涉及；有关，关于
